@@ -6,18 +6,16 @@ $ ./welcome.sh
 > Portfolio Loaded Successfully!
 ```
 # Hello World!
-I'm Ced, a programming student at [42 quebec](https://www.42quebec.com)  
+I'm Ced, a programming student at [42 Québec](https://www.42quebec.com)  
 
-## Currently Woring On
+## Currently Working On
 I am currently working on **[ft_transcendance](https://github.com/SaydRomey/ft_transcendance)**,  
-42's final project before the completion of the common core.  
+42's final project before completing the common core.  
 A real-time multiplayer web application combining authentication, chat, and a Pong-inspired game, built with modern web technologies.
 
 The **42 Common Core** is a rigorous, peer-driven curriculum focusing on low-level programming, algorithms, and systems development.
 
 ## Completed Projects from 42 Common Core
-
-### Completed Projects
 
 - **[Libft](https://github.com/SaydRomey/libft)**: A custom implementation of essential C library functions.
 - **[get_next_line](https://github.com/SaydRomey/get_next_line)**: A program to read a line from a file descriptor, one at a time.
@@ -44,7 +42,7 @@ The **42 Common Core** is a rigorous, peer-driven curriculum focusing on low-lev
 # Contact Information
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or for collaboration opportunities!
 
-- **[Linkedin](https://www.linkedin.com/in/cédéric-dumais-195631314)**
+- **[LinkedIn](https://www.linkedin.com/in/cédéric-dumais-195631314)**
 - Email: **cdumais@programmer.net**
 - **...**
 
