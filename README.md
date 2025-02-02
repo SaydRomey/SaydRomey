@@ -9,7 +9,7 @@
 </div>
 
 ## Currently Working On
-**[ft_transcendance](https://github.com/SaydRomey/ft_transcendance)**
+**[ft_transcendence](https://github.com/SaydRomey/ft_transcendence)**
 
 I am currently working on  42's final project before completing the common core.  
 A real-time multiplayer web application combining authentication, chat, and a Pong-inspired game, built with modern web technologies.
