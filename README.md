@@ -6,7 +6,57 @@
 
 ### I'm Ced, a junior dev and alumni from [42 Québec](https://www.42quebec.com)
 
+🌱 I’m currently learning **videogame programming**
+
+💬 Ask me about **C, C++ and Makefiles**
+
+<!-- Credly Badges -->
+
+<!--
+[![My Badge](./assets/42-cursus-junior-developer-level-9.png)](https://www.credly.com/badges/dce5ba28-a041-4f79-bad6-19be6ea74746/public_url)
+-->
+
+<p align="center">
+  <a href="https://www.credly.com/badges/dce5ba28-a041-4f79-bad6-19be6ea74746/public_url">
+    <img src="./assets/42-cursus-junior-developer-level-9.png" alt="42 Cursus Junior Developer Badge" width="100"/>
+  </a>
+</p>
+
+<!-- Github Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaydRomey&layout=compact&theme=tokyonight&card_width=400" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SaydRomey&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+
 </div>
+
+---
+
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![make](https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## About Me
+
+Hi! I'm a passionate developer with a love for problem-solving and learning new technologies.  
+I studied at 42 Québec, where I developped my technical and collaborative skills through intensive project-based learning.
+
+I am proficient in C/C++ (C++98) and possess a strong understanding of object-oriented programming principles.
+
+I am a firm believer in clean, modular, and scalable code, and have a deep appreciation for automation.  
+I extensively use Makefiles and Bash scripting to streamline workflows, generate assets and enhance development efficiency.
+
+I also enjoy creating reusable utility classes and wrapper functions to enhance code readability and maintainability.
+
+---
 
 ## Most Recent Project
 **[ft_transcendence](https://github.com/SaydRomey/ft_transcendence)**
@@ -46,16 +96,16 @@ getting familiar with markdown and a little html in the process!
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaydRomey&layout=compact&theme=tokyonight)  
-
-[![cdumais's 42 stats](https://badge.mediaplus.ma/greenbinary/cdumais?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/cdumais) 
-
----
-
 # Contact Information
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or for collaboration opportunities!
 
-- **[LinkedIn](https://www.linkedin.com/in/cédéric-dumais-195631314)**
+- **[LinkedIn](https://www.linkedin.com/in/cedericdumais)**
 - Email: **cdumais@programmer.net**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cedericdumais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile link" height="30" width="40" /></a>
+  <a href="mailto:cdumais@programmer.net"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
+</p>
 
 ---
