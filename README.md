@@ -4,15 +4,17 @@
 
 # Hello, World!
 
-### I'm Ced, a programming student at [42 Québec](https://www.42quebec.com)
+### I'm Ced, a junior dev and alumni from [42 Québec](https://www.42quebec.com)
 
 </div>
 
-## Currently Working On
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dce5ba28-a041-4f79-bad6-19be6ea74746" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+## Most Recent Project
 **[ft_transcendence](https://github.com/SaydRomey/ft_transcendence)**
 
-I am currently working on  42's final project before completing the common core.  
-A real-time multiplayer web application combining authentication, chat, and a Pong-inspired game, built with modern web technologies.
+I recently completed 42's final common core project.  
+A secure web application combining authentication with 2FA, user management, GDPR features, in the format of a Pong-inspired game, built with modern web technologies.
 
 I am also documenting my previous projects on my github,  
 getting familiar with markdown and a little html in the process!
@@ -37,6 +39,7 @@ getting familiar with markdown and a little html in the process!
 | **[ft_irc](https://github.com/SaydRomey/ft_irc)** | Building an IRC server from scratch with C++. |
 | **[Inception](https://github.com/SaydRomey/inception)** | Setting up a Docker-based multi-service application. |
 | **[CPP Modules](https://github.com/SaydRomey/CPP)** | A deep dive into object-oriented programming using C++98. |
+| **[ft_transcendence](https://github.com/SaydRomey/ft_transcendence)** | A Pong-inspired web app. |
 
 > Projects written in **C** required a specific [coding norm](https://github.com/SaydRomey/42_ressources/blob/main/pdf/norm_en_v4.pdf)
 
