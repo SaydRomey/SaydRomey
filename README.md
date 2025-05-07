@@ -1,4 +1,5 @@
 > (WIP)
+> [Lire en Français](./README_FR.md)
 
 <div align="center">
 
