@@ -1,5 +1,45 @@
 > (WIP)
-> [Read in English](./README.md)
+
+<div align="right">
+
+[Read in English](./README.md)
+
+</div>
+
+<!-- Fiche de personnage
+
+🧙‍♂️ Classe: Mage-codeur du shell 
+🌀 Sous-classe: Scribe Makefilien, artisan des dimensions vidéoludiques, technomancien du noyau 
+
+🪄 Compétences:  
+  🔹 Forge de Scripts – Façonne des incantations Bash aux lignes runiques.  
+  🔹 Alchimie du Flux – Transmute l'entropie en séquences ritualisées.  
+  🔹 Glyphes Automates – Trace des rites `.sh` pour dissiper l’ennui et invoquer l’ordre.  
+  🔹 Murmures aux Daemons – S’adresse aux processus de l’ombre. Parfois, ils répondent.
+
+🎒 Inventaire:  
+  🔸 Makefile d’obsidienne (+1 en stabilité mentale)  
+  🔸 Talisman shell (lié à `~/bin`)  
+  🔸 Fragment crypté de `.bash_history`  
+  🔸 Rêveries non compilées d’un monde en deux dimensions  
+  🔸 Cartographies fracturées et singularités gravitationnelles  
+  🔸 Grimoire ancien du 42ème peuple (`Codex du Tronc Commun de cdumais`)  
+
+📜 Quêtes en cours:  
+  ★ Réécrire les Anciens Rituels (annotés cette fois, par prudence)  
+  ★ Archiver les Projets Défunts avant dissipation complète  
+  ★ Décrypter le Tableau Caché des Invocations d’Emploi de Sysadminia  
+  ★ Apprivoiser les entités d’entrée des royaumes ludiques multi-dimensionnels  
+  ★ Dompter les entités d’entrée des plans multidimensionnels ludiques  
+
+🐞 Anomalies connues:  
+  ✦ Invoque parfois `rm -rf` avec une témérité inquiétante  
+  ✦ Persiste à sanctifier chaque script via le contrôle de versions  
+  ✦ Converse avec les daemons du fond sans égard pour le plan physique  
+  ✦ Entasse des terminaux en spirale jusqu’à saturation de la mémoire  
+  ✦ Revêt un heaume auditif pour conjurer les ondes dissonantes  
+  ✦ Réagit vivement aux perturbations sonores ; malus de proximité permanent  
+-->
 
 <div align="center">
 
