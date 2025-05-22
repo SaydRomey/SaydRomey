@@ -1,5 +1,54 @@
 > (WIP)
-> [Lire en Français](./README_FR.md)
+
+<div align="right">
+
+[Lire en Français](./README_FR.md)
+
+</div>
+
+<!-- Character sheet
+
+🧙‍♂️ Class:    Shell-wielding dev mage
+🌀 Subclass: Makefile scholar, arcane game tinkerer, Linux technomancer
+
+🪄 Skills:
+  🔹 Script Smithing - Hand-forges Bash incantations.
+  🔹 Workflow Alchemy - Transmutes chaos into reusable scripts.
+  🔹 Automation Runes - Etches `.sh` rituals that banish tedium and summon order.
+  🔹 Daemon Whispering - Talks to background processes. They sometimes talk back.
+
+🎒 Inventory:
+  🔸 +1 Makefile
+  🔸 Shell wand (bound to ~/bin)
+  🔸 Obsidian `.bash_history` scroll
+  🔸 Uncompiled dreams of a 2D game
+  🔸 Half-mapped levels and gravity experiments
+  🔸 A well-worn 42 spellbook (`cdumais’s Grimoire of the Common Core`)
+
+📜 Current Quests:
+  ★ Refactor the Ancient Scripts (with comments this time)
+  ★ Document the Forgotten Projects before they fade
+  ★ Discover the Hidden Job Board of Sysadminia
+  ★ Tame the input beasts of multi-dimensional game realms
+
+🐞 Known Bugs:
+  ✦ Occasionally casts `rm -rf` too confidently
+  ✦ Believes every script deserves version control
+  ✦ Talks to daemons in public
+  ✦ Too many terminal tabs, too little RAM
+  ✦ Wears headphones like armor against chaotic frequencues
+  ✦ Easily startled by audio crits; Proximity debuff active.
+-->
+
+<!-- Status ideas
+About to understand...
+Understanding adjacent...
+Knows just enough to ask better questions...
+🦕
+Version controlled since the Triassic... 
+Jurasscript enabled.
+Coding in C like extinction isn't real.
+-->
 
 <div align="center">
 
