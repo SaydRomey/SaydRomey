@@ -56,7 +56,9 @@ Coding in C like extinction isn't real.
 
 ### I'm Ced, a junior dev and alumni from [42 Québec](https://www.42quebec.com)
 
-🌱 I’m currently learning **videogame programming**
+🌱 I’m currently learning **videogame programming**  
+
+Take a look at my current project [GodotPlayground](https://github.com/SaydRomey/GodotPlayground)
 
 💬 Ask me about **C, C++ and Makefiles**
 
