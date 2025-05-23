@@ -49,6 +49,8 @@
 
 🌱 J’apprends actuellement la **programmation de jeux vidéo**
 
+Explorez mon projet actuel [GodotPlayground](https://github.com/SaydRomey/GodotPlayground)
+
 💬 Posez-moi des questions sur **C, C++ et les Makefiles**
 
 <!-- Badges Credly -->
