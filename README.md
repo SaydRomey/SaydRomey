@@ -36,7 +36,7 @@
   ✦ Believes every script deserves version control
   ✦ Talks to daemons in public
   ✦ Too many terminal tabs, too little RAM
-  ✦ Wears headphones like armor against chaotic frequencues
+  ✦ Wears headphones like armor against chaotic frequencies
   ✦ Easily startled by audio crits; Proximity debuff active.
 -->
 
@@ -56,11 +56,12 @@ Coding in C like extinction isn't real.
 
 ### I'm Ced, a junior dev and alumni from [42 Québec](https://www.42quebec.com)
 
-🌱 I’m currently learning **videogame programming**  
+🌱 I’m currently learning **Videogame Programming**  
 
-Take a look at my current project [GodotPlayground](https://github.com/SaydRomey/GodotPlayground)
-
-💬 Ask me about **C, C++ and Makefiles**
+Take a look at my current project [GodotPlayground](https://github.com/SaydRomey/GodotPlayground)  
+I'm also world-building some color-related lore and ideas: [ColorGame](https://github.com/SaydRomey/ColorGame)  
+> [!NOTE]
+> (The ColorGame repo might be private at the moment... work in progress and all, you know.)  
 
 <!-- Credly Badges -->
 
