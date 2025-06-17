@@ -164,6 +164,72 @@ I'm Ced, a developer, maker, and digital tinkerer based in Québec.
 
 ---
 
+<details>
+<summary>Click to reveal my Dev RPG stats</summary>
+
+<p>  
+  <img src="./assets/dev-mage.png" alt="42 Badge" width="120"/>  
+</p>  
+
+Class: Shell-wielding dev mage
+Subclass: Makefile scholar, arcane game tinkerer, Linux technomancer
+
+Skills:
+
+  - Script Smithing - Hand-forges Bash incantations.
+
+  - Workflow Alchemy - Transmutes chaos into reusable scripts.
+
+  - Automation Runes - Etches .sh rituals that banish tedium and summon order.
+
+  - Daemon Whispering - Talks to background processes. They sometimes talk back.
+
+
+Inventory:
+
+  - +1 Makefile
+
+  - Shell wand (bound to ~/bin)
+
+  - .bash_history scroll
+
+  - Uncompiled dream shards of a 2D game
+
+  - Half-mapped levels and gravity experiments
+
+  - A well-worn 42 spellbook (cdumais’s Grimoire of the Common Core)
+
+
+Active Quests:
+
+  - Refactor the Ancient Scripts (with annotations this time)
+
+  - Document the Forgotten Projects before they fade
+
+  - Discover the Hidden Job Board of Sysadminia
+
+  - Tame the input beasts of multi-dimensional game realms
+
+
+Known Bugs:
+
+  - Occasionally casts rm -rf too confidently
+
+  - Believes every script deserves version control
+
+  - Talks to daemons in public
+
+  - Too many terminal tabs, too little RAM
+
+  - Wears headphones like armor against chaotic frequencies
+
+  - Easily startled by audio crits; Proximity debuff active.
+
+
+</details>
+
+---
+
 ## 👨‍💻 About Me
 
 I'm a junior developer with a passion for clean, modular, and scalable code.  
