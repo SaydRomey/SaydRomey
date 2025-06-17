@@ -49,7 +49,10 @@
 
 🌱 J’apprends actuellement la **programmation de jeux vidéo**
 
-Explorez mon projet actuel [GodotPlayground](https://github.com/SaydRomey/GodotPlayground)
+Explorez mon projet actuel [GodotPlayground](https://github.com/SaydRomey/GodotPlayground)  
+Je fais aussi du world-building pour un jeu vidéo basé sur une mythologie des couleurs: [ColorGame](https://github.com/SaydRomey/ColorGame)  
+> [!NOTE]  
+> (Le dépôt ColorGame est peut-être encore privé pour le moment… en mode WIP, vous comprendrez.)  
 
 💬 Posez-moi des questions sur **C, C++ et les Makefiles**
 
