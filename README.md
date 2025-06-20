@@ -8,10 +8,6 @@
 
 > (wip)  
 
-<!-- <p>  
-  <img src="./assets/dev-mage.png" alt="42 Badge" width="120"/>  
-</p>   -->
-
 <div align="center">
 
 # Hello, World!
@@ -22,7 +18,7 @@ I'm Ced, a developer, maker, and digital tinkerer based in Québec.
 ---
 
 ## 🧙‍♂️ Character Sheet
-
+<!-- 
 <details>
 <summary>Click to reveal my Dev RPG stats</summary>
 
@@ -97,7 +93,7 @@ I'm Ced, a developer, maker, and digital tinkerer based in Québec.
 
 </details>
 
----
+--- -->
 
 <details>
 <summary>Click to reveal my Dev RPG stats</summary>
@@ -106,6 +102,7 @@ I'm Ced, a developer, maker, and digital tinkerer based in Québec.
   <tr>
     <td style="vertical-align: top; padding-right: 1rem;">
       <img src="./assets/dev-mage.png" alt="Dev Mage" width="120"/>
+	  <hr>
     </td>
     <td style="vertical-align: top;">
       <table>
@@ -166,16 +163,6 @@ I'm Ced, a developer, maker, and digital tinkerer based in Québec.
 	  Easily startled by audio crits; Proximity debuff active
 	</td>
   </tr>
-    <tr>
-	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Achievements</strong>:</td>
-	<td>
-	 <div style="margin-top: 0.5rem;">
-      <a href="https://www.credly.com/badges/dce5ba28-a041-4f79-bad6-19be6ea74746/public_url">
-        <img src="./assets/42-cursus-junior-developer-level-9.png" alt="42 Cursus Junior Developer Badge" width="100"/>
-      </a>
-	</td>
-  </td>
-</div>
 </table>
 <p><strong>Achievements</strong>:</p>
 <div style="margin-top: 0.5rem;">
