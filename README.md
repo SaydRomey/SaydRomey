@@ -8,6 +8,10 @@
 
 > (wip)  
 
+<!-- <p>  
+  <img src="./assets/dev-mage.png" alt="42 Badge" width="120"/>  
+</p>   -->
+
 <div align="center">
 
 # Hello, World!
@@ -121,110 +125,64 @@ I'm Ced, a developer, maker, and digital tinkerer based in Québec.
 	</td>
   </tr>
 </table>
-<p><strong>Skills</strong>:</p>
-<ul>
-  <li>Script Smithing – Hand-forges Bash incantations.</li>
-  <li>Workflow Alchemy – Transmutes chaos into reusable scripts.</li>
-  <li>Automation Runes – Etches <code>.sh</code> rituals that banish tedium and summon order.</li>
-  <li>Daemon Whispering – Talks to background processes. They sometimes talk back.</li>
-</ul>
-<p><strong>Inventory</strong>:</p>
-<ul>
-  <li>+1 Makefile</li>
-  <li>Shell wand (bound to <code>~/bin</code>)</li>
-  <li><code>.bash_history</code> scroll</li>
-  <li>Uncompiled dream shards of a 2D game</li>
-  <li>Half-mapped levels and gravity experiments</li>
-  <li>A well-worn 42 spellbook (<code>cdumais’s Grimoire of the Common Core</code>)</li>
-</ul>
-<p><strong>Active Quests</strong>:</p>
-<ul>
-  <li>Refactor the Ancient Scripts (with annotations this time)</li>
-  <li>Document the Forgotten Projects before they fade</li>
-  <li>Discover the Hidden Job Board of Sysadminia</li>
-  <li>Tame the input beasts of multi-dimensional game realms</li>
-</ul>
-<p><strong>Known Bugs</strong>:</p>
-<ul>
-  <li>Occasionally casts <code>rm -rf</code> too confidently</li>
-  <li>Believes every script deserves version control</li>
-  <li>Talks to daemons in public</li>
-  <li>Too many terminal tabs, too little RAM</li>
-  <li>Wears headphones like armor against chaotic frequencies</li>
-  <li>Easily startled by audio crits; Proximity debuff active</li>
-</ul>
-<!--  -->
+<table>
+  <tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Skills</strong>:</td>
+	<td>
+      Script Smithing – Hand-forges Bash incantations.<br>
+	  Workflow Alchemy – Transmutes chaos into reusable scripts.<br>
+	  Automation Runes – Etches <code>.sh</code> rituals that banish tedium and summon order.<br>
+	  Daemon Whispering – Talks to background processes. They sometimes talk back.
+	</td>
+  </tr>
+<tr>
+  <td style="padding-right: 0.5rem; vertical-align: top;"><strong>Inventory</strong>:</td>
+	<td>
+	  +1 Makefile<br>
+	  Shell wand (bound to <code>~/bin</code>)<br>
+	  <code>.bash_history</code> scroll<br>
+	  Uncompiled dream shards of a 2D game<br>
+	  Half-mapped levels and gravity experiments<br>
+	  A well-worn 42 spellbook (<code>cdumais’s Grimoire of the Common Core</code>)
+	</td>
+  </tr>
+  <tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Active Quests</strong>:</td>
+	<td>
+	  Refactor the Ancient Scripts (with annotations this time)<br>
+	  Document the Forgotten Projects before they fade<br>
+	  Discover the Hidden Job Board of Sysadminia<br>
+	  Tame the input beasts of multi-dimensional game realms
+	</td>
+  </tr>
+  <tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Known Bugs</strong>:</td>
+	<td>
+	  Occasionally casts <code>rm -rf</code> too confidently<br>
+	  Believes every script deserves version control<br>
+	  Talks to daemons in public<br>
+	  Too many terminal tabs, too little RAM<br>
+	  Wears headphones like armor against chaotic frequencies<br>
+	  Easily startled by audio crits; Proximity debuff active
+	</td>
+  </tr>
+    <tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Achievements</strong>:</td>
+	<td>
+	 <div style="margin-top: 0.5rem;">
+      <a href="https://www.credly.com/badges/dce5ba28-a041-4f79-bad6-19be6ea74746/public_url">
+        <img src="./assets/42-cursus-junior-developer-level-9.png" alt="42 Cursus Junior Developer Badge" width="100"/>
+      </a>
+	</td>
+  </td>
+</div>
+</table>
+<p><strong>Achievements</strong>:</p>
 <div style="margin-top: 0.5rem;">
   <a href="https://www.credly.com/badges/dce5ba28-a041-4f79-bad6-19be6ea74746/public_url">
     <img src="./assets/42-cursus-junior-developer-level-9.png" alt="42 Cursus Junior Developer Badge" width="100"/>
   </a>
 </div>
-
-</details>
-
----
-
-<details>
-<summary>Click to reveal my Dev RPG stats</summary>
-
-<p>  
-  <img src="./assets/dev-mage.png" alt="42 Badge" width="120"/>  
-</p>  
-
-Class: Shell-wielding dev mage
-Subclass: Makefile scholar, arcane game tinkerer, Linux technomancer
-
-Skills:
-
-  - Script Smithing - Hand-forges Bash incantations.
-
-  - Workflow Alchemy - Transmutes chaos into reusable scripts.
-
-  - Automation Runes - Etches .sh rituals that banish tedium and summon order.
-
-  - Daemon Whispering - Talks to background processes. They sometimes talk back.
-
-
-Inventory:
-
-  - +1 Makefile
-
-  - Shell wand (bound to ~/bin)
-
-  - .bash_history scroll
-
-  - Uncompiled dream shards of a 2D game
-
-  - Half-mapped levels and gravity experiments
-
-  - A well-worn 42 spellbook (cdumais’s Grimoire of the Common Core)
-
-
-Active Quests:
-
-  - Refactor the Ancient Scripts (with annotations this time)
-
-  - Document the Forgotten Projects before they fade
-
-  - Discover the Hidden Job Board of Sysadminia
-
-  - Tame the input beasts of multi-dimensional game realms
-
-
-Known Bugs:
-
-  - Occasionally casts rm -rf too confidently
-
-  - Believes every script deserves version control
-
-  - Talks to daemons in public
-
-  - Too many terminal tabs, too little RAM
-
-  - Wears headphones like armor against chaotic frequencies
-
-  - Easily startled by audio crits; Proximity debuff active.
-
 
 </details>
 
