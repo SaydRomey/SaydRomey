@@ -6,14 +6,15 @@
 
 </div>
 
-> (wip)  
+> (WIP)  
 
 <div align="center">
-  <a href="https://github.com/SaydRomey/SaydRomey/tests/dev-mage.md">
-    <img src="./assets/dev-mage.png" alt="Dev Mage" width="400">
-  </a>
+  <img src="./assets/dev-mage.png" alt="Dev Mage" width="250">
+</div>
+
+<div align="center">
   <h1>Hello, World!</h1>
-I'm Ced, a developer, maker, and digital tinkerer based in Québec.
+  <p>I'm Ced, a developer, maker, and digital tinkerer based in Québec.</p>
 </div>
 
 ---

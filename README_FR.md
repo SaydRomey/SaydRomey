@@ -1,9 +1,14 @@
-> (WIP)
 
 <div align="right">
 
 [Read in English](./README.md)
 
+</div>
+
+> (WIP)
+
+<div align="center">
+  <img src="./assets/dev-mage.png" alt="Mage-codeur" width="250">
 </div>
 
 <!-- Fiche de personnage
