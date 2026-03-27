@@ -133,8 +133,7 @@ I'm always happy to connect and collaborate:
 ---
 
 
-<!-- <div align=center> -->
-<div align=right>
+<div align=center>
 
 <details>
   <summary>
