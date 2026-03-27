@@ -93,7 +93,8 @@ This is mostly a writing and world-building project at its current stage.
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" height="170"/>
   <img src="./profile/stats.svg" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaydRomey&theme=tokyonight" alt="GitHub Streak" height="170"/>
+  <img src="./profile/metrics.svg" alt="GitHub Metrics" height="170"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaydRomey&theme=tokyonight" alt="GitHub Streak" height="170"/> -->
 </p>
 
 ---
