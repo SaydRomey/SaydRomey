@@ -48,7 +48,7 @@ from lore and mythology to NPC archetypes and core mechanics.
 
 This is mostly a writing and world-building project at its current stage.
 
-> [!WARNING] W.I.P. 
+> [!WARNING] W.I.P.  
 > *(The ColorGame repo might be private at the moment... 
 > work in progress and all, you know.)*  
 
