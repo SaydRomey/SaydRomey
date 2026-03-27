@@ -88,18 +88,31 @@ This is mostly a writing and world-building project at its current stage.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Workshop Diagnostics
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" height="170"/>
   <img src="./profile/stats.svg" alt="GitHub Stats" height="170"/>
-  <img src="./profile/metrics.svg" alt="GitHub Metrics" height="170"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaydRomey&theme=tokyonight" alt="GitHub Streak" height="170"/> -->
+</p>
+
+<h3 align="center">Mana Flow Monitor</h3>
+<p align="center">
+  <img src="./profile/mana-flow-monitor.svg" alt="Mana Flow Monitor" width="760"/>
 </p>
 
 ---
 
-## 🛠️ Tech & Tools
+<details>
+  <summary><strong>Activity Feed</strong></summary>
+  <p align="center">
+    <!-- <img src="./profile/snake.svg" alt="Contribution Snake"/> -->
+    <img src="https://raw.githubusercontent.com/SaydRomey/SaydRomey/output/snake.svg" alt="Contribution Snake"/>
+  </p>
+</details>
+
+---
+
+## Prepared Spells
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -112,6 +125,14 @@ This is mostly a writing and world-building project at its current stage.
   <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white"/>
 </p>
+
+---
+
+## 📚 Workshop Wings
+
+- **[Grimoire](./grimoire/README.md)** — notes on Markdown, HTML, tables, links, and assorted syntax.
+- **[Lab](./lab/README.md)** — profile experiments, widget ideas, and thematic prototypes.
+- **[Archives](./archives/)** — older project notes and writeups.
 
 ---
 
@@ -216,3 +237,8 @@ I'm always happy to connect and collaborate:
 </details>
 
 </div>
+
+<details>
+  <summary>Guild Records</summary>
+  ...
+</details>
