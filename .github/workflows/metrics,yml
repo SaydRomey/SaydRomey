@@ -1,0 +1,26 @@
+name: Update Metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics card
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: SaydRomey
+          template: classic
+          base: header, activity, community, repositories, metadata
+
+          plugin_isocalendar: yes
