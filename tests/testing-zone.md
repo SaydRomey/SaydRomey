@@ -19,39 +19,26 @@ $ ./welcome.sh
 > Tools
 >    - *[Generate cursus progress badge here](https://badge.mediaplus.ma/)*
 
-<img src="https://img.shields.io/badge/-Quebec-000000?style=flat&logo=42&logoColor=white" alt="42 Badge" height="40">  
+<img src="https://img.shields.io/badge/-Quebec-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Badge" height="40">  
 
 [![cdumais's 42 stats](https://badge.mediaplus.ma/greenbinary/cdumais?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/cdumais)  
 
-[![42 Badge](https://img.shields.io/badge/-Quebec-000000?style=flat&logo=42&logoColor=white)](https://www.42quebec.com)  
+[![42 Badge](https://img.shields.io/badge/-Quebec-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42quebec.com)  
 
 
 ---
 
 ## Dynamic stats and contributions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaydRomey&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaydRomey&show_icons=true&theme=tokyonight)
-
-
-> Tools  
-[Github stats generator visualizer](https://gh-stats-gen.vercel.app/)
-> Themes: gotham, tokyonight, radical, gruvbox, react-dark, vue-dark  
-> Options:
->    - &theme=gotham  
->    - &show_icons=true  
->    - &hide_border=false  
->    - &count_private=true  
->    - &layout=compact  
-
 > Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaydRomey&layout=compact&theme=tokyonight)
+<img src="../profile/top-langs.svg" alt="Top Languages" height="170"/>
 
 > Stats  
-![SaydRomey's Stats](https://github-readme-stats.vercel.app/api?username=SaydRomey&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+<img src="../profile/stats.svg" alt="GitHub Stats" height="170"/>
 
 > Streak  
 ![SaydRomey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaydRomey&theme=tokyonight)  
+> Made using https://github-readme-streak-stats.herokuapp.com/demo/  
 
 > Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SaydRomey&theme=gruvbox)
@@ -85,6 +72,53 @@ $ ./welcome.sh
 
 ## Badges
 
+### Template:
+```
+https://img.shields.io/badge/<LABEL>-<COLOR>?style=<STYLE>&logo=<LOGO>&logoColor=<LOGO_COLOR>
+```
+
+#### 1. `https://img.shields.io/badge/`
+Check out their website -> https://shields.io/
+
+#### 2. `<LABEL>-<COLOR>`
+The text written after the logo and its color value
+
+#### 3. `?style=<STYLE>`
+
+| Style            | Preview                                                                                                      | Query param           |
+| ---------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- |
+| `flat` (default) | ![flat](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)                              | `style=`          |
+| `flat-square`    | ![flat-square](https://img.shields.io/badge/GitHub-100000?style=-square&logo=github&logoColor=white)     | `style=-square`   |
+| `plastic`        | ![plastic](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)             | `style=plastic`       |
+| `social`         | ![social](https://img.shields.io/badge/GitHub-100000?style=social&logo=github&logoColor=black)               | `style=social`        |
+| `for-the-badge`  | ![for-the-badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | `style=for-the-badge` |
+
+#### 4. `&logo=<LOGO>`
+- Available logos 
+
+#### 5. `&logoColor=<LOGO_COLOR>`
+
+Info found on this repo -> https://github.com/henriquesebastiao/badges
+
+**Example — inverting a badge's colors:**
+
+| Variant | Badge                                                                                                    | Background | Logo color | Full URL                                                                              |
+| ------- | -------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------------------- |
+| Dark    | ![Markdown Dark](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  | `000000`   | `white`    | https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white |
+| Light   | ![Markdown Light](https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=black) | `ffffff`   | `black`    | https://img.shields.io/badge/Markdown-ffffff?style=for-the-badge&logo=markdown&logoColor=black |
+
+> Find any logo name and its official brand color at **[simpleicons.org](https://simpleicons.org/)**.
+
+
+---
+
+### Tests
+
+
+> *Education*  
+![42](https://img.shields.io/badge/quebec-000000?style=for-the-badge&logo=42&logoColor=white)  
+
+
 > *frameworks and libraries*  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) 
@@ -95,9 +129,13 @@ $ ./welcome.sh
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 
 > *languages*  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+![42](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white) 
+
 
 > *OS*  
 ![Win95](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white) 
@@ -132,6 +170,60 @@ $ ./welcome.sh
 
 > *taken from pasqualrossi temporarly, will find my own*
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
+
+### https://readme-typing-svg.demolab.com
+
+<!--
+
+
+player->sheet = load_default_stats() unless curious
+player.sheet := hidden_stats if clicked
+if (curious) player.sheet = reveal_stats();
+if (clicked) inspect_character_sheet(); // below
+
+
+
+for f in src/**/*.c; do gcc $f -c endforeach
+for f in src/**/*.c; do gcc "$f" -c; done
+find src -name '*.c' -exec gcc {} -c \;
+make re # better idea
+
+gravity = 9.81f; // feels wrong
+gravity = 12.0f; // feels better
+gravity = 18.0f; // playtesting
+gravity = whatever makes the jump feel right;
+
+Electric Blue -> #0099FF
+Vibrant Purple -> #9900FF
+Teal/Sea Green -> 
+-->
+
+<!-- Status ideas
+About to understand...
+Understanding adjacent...
+Knows just enough to ask better questions...
+🦕
+Version controlled since the Triassic... 
+Jurasscript enabled.
+Coding in C like extinction isn't real.
+-->
+
+<!--
+
+Orbitron
+BioRhyme
+audiowide
+science gothic
+VT323 — best hidden-terminal / debug-panel vibe.
+Silkscreen — best retro game stat-sheet vibe.
+Pixelify Sans — best compromise between character and readability.
+Press Start 2P — most stylish, but easiest to overdo.
+
+
+https://websafecolors.info/color-chart
+
+-->
 
 ---
 
@@ -189,7 +281,7 @@ I also enjoy creating reusable utility classes and wrapper functions to enhance 
 [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/cédéric-dumais-195631314)
 
 
-[![42 Badge](https://img.shields.io/badge/-Quebec-000000?style=flat&logo=42&logoColor=white)](https://www.42quebec.com)  
+[![42 Badge](https://img.shields.io/badge/-Quebec-000000?style=for-the-badge&logo=42&logoColor=white)](https://www.42quebec.com)  
 
 - **[LinkedIn](https://www.linkedin.com/in/cédéric-dumais-195631314)**
 - Email: **cdumais@programmer.net**
