@@ -1,0 +1,52 @@
+# readme.config.toml
+# Central path registry for README generation.
+# When you move docs or assets, update this file and regenerate README.md.
+
+[project]
+title = "🎨 [The Realm]: A Color-Shattered World"
+name = "[The Realm]"
+description = "A narrative-rich, hue-fractured fantasy world where emotion, memory, and magic are bound to color."
+
+[paths]
+docs_root = "docs"
+assets_root = "assets"
+
+[docs]
+gdd_draft = "01-design/gdd-draft.md"
+core_systems = "01-design/systems/overview.md"
+hue_binding = "01-design/systems/hue-binding.md"
+hue_affinity = "01-design/systems/hue-affinity.md"
+personality_system = "01-design/systems/personality-system.md"
+
+items = "02-content/items/index.md"
+npcs = "02-content/characters/npcs/index.md"
+main_character = "02-content/characters/player/prismwalker.md"
+bestiary = "02-content/bestiary/index.md"
+
+world = "03-world/overview.md"
+timeline = "03-world/timeline.md"
+myths_and_omens = "03-world/myths-and-omens.md"
+huevale = "03-world/regions/huevale.md"
+vireya = "03-world/regions/vireya.md"
+iriseld = "03-world/regions/iriseld.md"
+myrrala = "03-world/regions/myrrala.md"
+luxeran = "03-world/regions/luxeran.md"
+auralith = "03-world/regions/auralith.md"
+nullshade = "03-world/regions/nullshade.md"
+
+scene_examples = "04-narrative/scenes/scene-examples.md"
+endgame = "04-narrative/scenes/endgame.md"
+
+ui = "05-ux/ui.md"
+in_game_visuals = "06-art/in-game-visuals.md"
+colors = "06-art/palette.md"
+
+glossary = "_shared/meta/glossary.md"
+naming_conventions = "_shared/meta/naming-conventions.md"
+tooling = "08-engineering/tooling.md"
+
+[assets]
+world_map = "world-map-overview.png"
+prismwalker_sketch = "player/prismwalker-sketch.png"
+hue_skin_example = "player/hue-skin-example.png"
+meeting_thalera = "in-game-visuals/meeting-thalera.png"

@@ -1,6 +1,94 @@
 
 # Dev Mage Test Zone
 
+
+
+<div align=center>
+
+<details>
+	<summary>
+	<img src="https://readme-typing-svg.demolab.com?font=VT323&size=16&pause=1000&color=0099FF&repeat=true&width=435&separator=%3C&lines=player-%3Esheet+%3D+load_default_stats()+unless+curious%3Cplayer.sheet+%3A%3D+hidden_stats+if+clicked%3Cif+(curious)+player.sheet+%3D+reveal_stats();%3Cif+(clicked)+inspect_character_sheet();+%2F%2F+below" alt="Typing SVG" />
+	</summary>
+<table>
+	<tr>
+	<td style="vertical-align: top; padding-right: 1rem;">
+		<img src="../assets/dev-mage.png" alt="Dev Mage" width="120"/>
+		<hr>
+	</td>
+	<td style="vertical-align: top;">
+		<table>
+		<tr>
+			<td style="padding-right: 0.5rem;"><strong>Name</strong>:</td>
+			<td>Sayd</td>
+		</tr>
+		<tr>
+			<td style="padding-right: 0.5rem;"><strong>Class</strong>:</td>
+			<td>Shell-wielding dev mage</td>
+		</tr>
+		<tr>
+			<td style="padding-right: 0.5rem;"><strong>Subclass</strong>:</td>
+			<td>Makefile scholar, arcane game tinkerer, Linux technomancer</td>
+		</tr>
+		</table>
+	</td>
+	</tr>
+</table>
+<table>
+	<tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Skills</strong>:</td>
+	<td>
+		Script Smithing – Hand-forges Bash incantations.<br>
+		Workflow Alchemy – Transmutes chaos into reusable scripts.<br>
+		Automation Runes – Etches <code>.sh</code> rituals that banish tedium and summon order.<br>
+		Daemon Whispering – Talks to background processes. They sometimes talk back.
+	</td>
+	</tr>
+<tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Inventory</strong>:</td>
+	<td>
+		+1 Makefile<br>
+		Shell wand (bound to <code>~/bin</code>)<br>
+		<code>.bash_history</code> scroll<br>
+		Uncompiled dream shards of a 2D game<br>
+		Half-mapped levels and gravity experiments<br>
+		A well-worn 42 spellbook (<code>cdumais’s Grimoire of the Common Core</code>)
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Active Quests</strong>:</td>
+	<td>
+		Refactor the Ancient Scripts (with annotations this time)<br>
+		Document the Forgotten Projects before they fade<br>
+		Discover the Hidden Job Board of Sysadminia<br>
+		Tame the input beasts of multi-dimensional game realms
+	</td>
+	</tr>
+	<tr>
+	<td style="padding-right: 0.5rem; vertical-align: top;"><strong>Known Bugs</strong>:</td>
+	<td>
+		Occasionally casts <code>rm -rf</code> too confidently<br>
+		Believes every script deserves version control<br>
+		Talks to daemons in public<br>
+		Too many terminal tabs, too little RAM<br>
+		Wears headphones like armor against chaotic frequencies<br>
+		Easily startled by audio crits; Proximity debuff active
+	</td>
+	</tr>
+</table>
+<p><strong>Achievements</strong>:</p>
+<div style="margin-top: 0.5rem;">
+	<a href="https://www.credly.com/badges/dce5ba28-a041-4f79-bad6-19be6ea74746/public_url">
+	<img src="./assets/42-cursus-junior-developer-level-9.png" alt="42 Cursus Junior Developer Badge" width="100"/>
+	</a>
+</div>
+
+</details>
+
+</div>
+
+
+---
+
 ## Image with clickable link
 
 <div align=center>
